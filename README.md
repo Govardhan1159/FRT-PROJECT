@@ -1,4 +1,4 @@
-# Future Ready Talent - Memorial Books
+# Future Ready Talent - Selo
 
 
 
@@ -42,11 +42,11 @@ as our solution we made a webpage that where we kept few books and their cloud l
 # About Us
 We are BTech pursuing Students,from 3rd year we consider this as problem as we facing the same situtaion regularly.our team
 
--  B Sailu
+-  S Pushpanjali
 
--  P Deepthi Sai Lakshmi
+-  Ch Sireesha
 
--  V Madhulatha
+-  K Sahithya
 
 
 # Privacy Policies 
