@@ -2,7 +2,7 @@
 
 
 
-AZURE LINK : https://agreeable-mud-0b1eb1410.1.azurestaticapps.net
+AZURE LINK : https://witty-cliff-00a061c00.2.azurestaticapps.net
 
 
 
