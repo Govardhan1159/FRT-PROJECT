@@ -36,7 +36,8 @@ as our solution we made a webpage that where we kept few books and their cloud l
  -  Easy to Navigate in Both Mobile and Deaktop
  
 # Screenshot
-![pc cap](https://user-images.githubusercontent.com/110035582/197511434-dfb6eaf9-c80c-4394-999f-176908ee8bd0.png)
+![Pc Cap](https://user-images.githubusercontent.com/112303626/198301201-75a19ef8-3ec0-4c4e-8a36-7ed6df816471.jpg)
+
 
 
 # About Us
