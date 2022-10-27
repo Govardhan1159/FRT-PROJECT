@@ -6,8 +6,8 @@ AZURE LINK : https://witty-cliff-00a061c00.2.azurestaticapps.net
 
 
 
-Memorial Books is our project that is done as the solution , is a collection of various famous books 
-as our solution we made a webpage that where we kept few books and their cloud links in our site which is used to help and download file that required
+Selo is our project that is done as the solution , is a collection of various services 
+as our solution we made a webpage that where we kept few services in our site which is used to  check your websites by using our services
 
 
 # Features
