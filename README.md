@@ -59,11 +59,12 @@ as our solution we made a webpage that where we kept few services in our site wh
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azure](https://user-images.githubusercontent.com/85716910/198466082-e678fd3f-20d2-44c6-b86c-c516d4ba3682.PNG)
+- ![azr web](https://user-images.githubusercontent.com/112303626/198655254-2d7172f2-e9ec-41c5-82a9-5a6e5f0794df.jpg)
+-
 
 
-- Github Runtime Actions
-- ![keerthi](https://user-images.githubusercontent.com/85716910/198419187-b0398e18-3559-43b6-b656-ea37a3862f5c.PNG)
+- Github Runtime Actions!
+- 
 
 # Project WorkFlow
 
