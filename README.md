@@ -7,7 +7,7 @@ YOUTUBE LINK:
 PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
 
 
-PROJECT LINK(GITHUB REPOSITORY : https://github.com/keerthikorumilli/frtproject
+PROJECT LINK(GITHUB REPOSITORY) : https://github.com/Govardhan1159/FRT-PROJECT
 
 
 Selo is our project that is done as the solution , is a collection of various services 
