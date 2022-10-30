@@ -6,7 +6,7 @@ AZURE LINK : https://witty-cliff-00a061c00.2.azurestaticapps.net
 
 YOUTUBE LINK:
 
-PROJECT DEMO URL: https://keerthikorumilli.github.io/frtproject
+PROJECT DEMO URL:  https://govardhan1159.github.io/FRT-PROJECT/
 
 
 PROJECT LINK(GITHUB REPOSITORY) : https://github.com/Govardhan1159/FRT-PROJECT
