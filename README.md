@@ -64,12 +64,13 @@ as our solution we made a webpage that where we kept few services in our site wh
 # Deployment  Screenshots
 
 - Azure Environment
-- ![azr web](https://user-images.githubusercontent.com/112303626/198655254-2d7172f2-e9ec-41c5-82a9-5a6e5f0794df.jpg)
--
 
+![vardhan azr capt](https://user-images.githubusercontent.com/112303626/198864578-6236731f-6936-4a97-805e-98ed10041bdd.jpg)
 
 - Github Runtime Actions!
-- ![github act](https://user-images.githubusercontent.com/112303626/198656864-976620e2-e85c-4d32-9480-dc53beead6b5.jpg)
+
+![vardha github act](https://user-images.githubusercontent.com/112303626/198864598-78794690-21fc-42ad-983c-363bc3ca11b8.jpg)
+
 
 
 # Project WorkFlow
