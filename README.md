@@ -75,9 +75,7 @@ as our solution we made a webpage that where we kept few services in our site wh
 
 # Project WorkFlow
 
-![workflow](https://user-images.githubusercontent.com/85716910/198467281-4b2e349b-3426-4c79-966a-05557f91100a.PNG)
-
- 
+![vardhan wrkflow capt](https://user-images.githubusercontent.com/112303626/198864669-3ff6874a-87bb-4ff5-9a88-dd8a7819147e.jpg)
 
 # Compatibility
  -  It Contains Great UI for Both Mobile and Desktop
