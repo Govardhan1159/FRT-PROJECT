@@ -82,7 +82,7 @@ as our solution we made a webpage that where we kept few services in our site wh
  
  -  Easy to Navigate in Both Mobile and Deaktop
  
-# Screenshot
+# Screenshots
 ![Pc Cap](https://user-images.githubusercontent.com/112303626/198301201-75a19ef8-3ec0-4c4e-8a36-7ed6df816471.jpg)
 
 ![mob  cap](https://user-images.githubusercontent.com/112303626/198657791-aa952d9e-ee93-42e2-b7c7-f4553fdd7efb.jpg)
